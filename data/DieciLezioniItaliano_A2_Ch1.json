@@ -1,0 +1,102 @@
+[
+    {
+        "QuestionType": "Open",
+        "Question": "Scegli la preposizione giusta. Hai comminciato ... studiare?",
+        "Correct": "a"
+    },
+    {
+        "QuestionType": "Open",
+        "Question": "Scegli la preposizione giusta. Perch\u00e9 continui ... guardarmi?",
+        "Correct": "a"
+    },
+    {
+        "QuestionType": "Open",
+        "Question": "Scegli la preposizione giusta. Penso sempre ... Maria.",
+        "Correct": "a"
+    },
+    {
+        "QuestionType": "Open",
+        "Question": "Scegli la preposizione giusta. A che ora finisci ... lavorare?",
+        "Correct": "di"
+    },
+    {
+        "QuestionType": "Open",
+        "Question": "Scegli la preposizione giusta. Ti ricordi ... me?",
+        "Correct": "di"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "abbinare",
+        "EnglishWord": "to match"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "il fascino",
+        "EnglishWord": "the fascination"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "scegliere",
+        "EnglishWord": "to choose"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "quinto",
+        "EnglishWord": "fifth"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "aumentare",
+        "EnglishWord": "to increase"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la lingua madre",
+        "EnglishWord": "the mother tongue"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "terzo",
+        "EnglishWord": "third"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "lo straniero",
+        "EnglishWord": "the stranger"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "l'Unione Europea",
+        "EnglishWord": "the European Union"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "onesto",
+        "EnglishWord": "honest"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "perdonare",
+        "EnglishWord": "to forgive"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la quota di iscrizione",
+        "EnglishWord": "the subscription fee"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la data di nascita",
+        "EnglishWord": "the date of birth"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "ricordarsi",
+        "EnglishWord": "to remember"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "iscriversi",
+        "EnglishWord": "to sign up"
+    }
+]
