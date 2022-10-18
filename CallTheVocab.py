@@ -10,7 +10,7 @@ exec(open(FunctionFileLocation).read())
 
 ### IMPORT DATA ###
 #DataFile = "DieciLezioniItaliano_Ch1.json"
-DataFile = "IlPiccoloPrincipe_Ch1.json"
+DataFile = "DieciLezioniItaliano_A2_Ch2.json"
 DataFileLocation = os.path.join(CurrentDirectory, "data/"+DataFile)
 with open(DataFileLocation, "r") as OpenFile:
     Questions = json.load(OpenFile)
