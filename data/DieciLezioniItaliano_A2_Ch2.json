@@ -1,0 +1,87 @@
+[
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "l'amicizia",
+        "EnglishWord": "the friendship"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "l'infanzia",
+        "EnglishWord": "the childhood"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "discutere",
+        "EnglishWord": "to discuss"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "basso",
+        "EnglishWord": "short"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "alto",
+        "EnglishWord": "tall"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "grasso",
+        "EnglishWord": "fat"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "magro",
+        "EnglishWord": "thin"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "socievole",
+        "EnglishWord": "sociable"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "timido",
+        "EnglishWord": "shy"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "giovane",
+        "EnglishWord": "young"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "anziano",
+        "EnglishWord": "elderly"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la magia",
+        "EnglishWord": "the magic"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la fuga",
+        "EnglishWord": "the escape"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "conoscere",
+        "EnglishWord": "to know"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "riconoscere",
+        "EnglishWord": "to recognize"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "bello",
+        "EnglishWord": "handsome"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "brutto",
+        "EnglishWord": "ugly"
+    }
+]
