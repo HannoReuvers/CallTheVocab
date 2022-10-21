@@ -1,0 +1,152 @@
+[
+    {
+        "QuestionType": "Open",
+        "Question": "Qual \u00e8 l'imperativo formale (con Lei) del verbo venire?",
+        "Correct": "venga"
+    },
+    {
+        "QuestionType": "Open",
+        "Question": "Qual \u00e8 l'imperativo formale (con Lei) del verbo avere?",
+        "Correct": "abbia"
+    },
+    {
+        "QuestionType": "Open",
+        "Question": "Qual \u00e8 l'imperativo formale (con Lei) del verbo andare?",
+        "Correct": "vada"
+    },
+    {
+        "QuestionType": "Open",
+        "Question": "Qual \u00e8 l'imperativo formale (con Lei) del verbo bere?",
+        "Correct": "beva"
+    },
+    {
+        "QuestionType": "Open",
+        "Question": "Qual \u00e8 l'imperativo formale (con Lei) del verbo essere?",
+        "Correct": "sia"
+    },
+    {
+        "QuestionType": "Open",
+        "Question": "Qual \u00e8 l'imperativo formale (con Lei) del verbo dire?",
+        "Correct": "dica"
+    },
+    {
+        "QuestionType": "Open",
+        "Question": "Qual \u00e8 l'imperativo formale (con Lei) del verbo togliere?",
+        "Correct": "tolga"
+    },
+    {
+        "QuestionType": "Open",
+        "Question": "Qual \u00e8 l'imperativo formale (con Lei) del verbo uscire?",
+        "Correct": "esca"
+    },
+    {
+        "QuestionType": "Open",
+        "Question": "Qual \u00e8 l'imperativo formale (con Lei) del verbo fare?",
+        "Correct": "faccia"
+    },
+    {
+        "QuestionType": "Open",
+        "Question": "Qual \u00e8 l'imperativo formale (con Lei) del verbo stare?",
+        "Correct": "stia"
+    },
+    {
+        "QuestionType": "Open",
+        "Question": "Qual \u00e8 l'imperativo formale (con Lei) del verbo dare?",
+        "Correct": "dia"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "sotto",
+        "EnglishWord": "below"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "scoprire",
+        "EnglishWord": "discover"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "divertirsi",
+        "EnglishWord": "to have fun"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "ciclismo",
+        "EnglishWord": "cycling"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "calcio",
+        "EnglishWord": "soccer"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "sconsigliare",
+        "EnglishWord": "to advice against"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "rafforzare",
+        "EnglishWord": "strenghten"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la goccia",
+        "EnglishWord": "the drop"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la bustina",
+        "EnglishWord": "the sachet"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "lo sciroppo",
+        "EnglishWord": "the syrup"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la compressa",
+        "EnglishWord": "the tablet"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la raffreddore",
+        "EnglishWord": "the cold"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "lo zenzero",
+        "EnglishWord": "the ginger"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "soffrire",
+        "EnglishWord": "to suffer"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "il sonno",
+        "EnglishWord": "the sleep"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "il pronto soccorso",
+        "EnglishWord": "the first aid"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "attendere",
+        "EnglishWord": "to wait for"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la sala d'attesa",
+        "EnglishWord": "the waiting room"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "togliere",
+        "EnglishWord": "remove"
+    }
+]
