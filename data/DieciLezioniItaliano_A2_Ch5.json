@@ -1,0 +1,207 @@
+[
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "l'azione",
+        "EnglishWord": "the action"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "volentieri",
+        "EnglishWord": "willingly"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "lo sconto",
+        "EnglishWord": "the discount"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "il suggerimento",
+        "EnglishWord": "the suggestion"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la bancarella",
+        "EnglishWord": "the stand"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "a righe",
+        "EnglishWord": "striped"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "a fiori",
+        "EnglishWord": "with flowers"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "a quadri",
+        "EnglishWord": "checkered"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "a tinta unita",
+        "EnglishWord": "unicolored"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "lo shopping",
+        "EnglishWord": "the shopping"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la taglia",
+        "EnglishWord": "the size"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "il tessuto",
+        "EnglishWord": "the fabric"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "saldi",
+        "EnglishWord": "sales"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "lo sconto",
+        "EnglishWord": "the discount"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "lo scontrino",
+        "EnglishWord": "the receipt"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "il paio",
+        "EnglishWord": "the pair"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "il difetto",
+        "EnglishWord": "the defect"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "il consiglio",
+        "EnglishWord": "the advice"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "il portafoglio",
+        "EnglishWord": "the wallet"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la collana",
+        "EnglishWord": "the necklace"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "gli orecchini",
+        "EnglishWord": "the earrings"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la penna",
+        "EnglishWord": "the pen"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la penna",
+        "EnglishWord": "the pen"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "i soldi",
+        "EnglishWord": "the money"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "il cappello",
+        "EnglishWord": "the hat"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la sciarpa",
+        "EnglishWord": "the scarf"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "il foglio",
+        "EnglishWord": "the sheet"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "l'ombrello",
+        "EnglishWord": "the umbrella"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "le cuffie",
+        "EnglishWord": "the headphones"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "gli occhiali",
+        "EnglishWord": "the glasses"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "le chiavi",
+        "EnglishWord": "the keys"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "l'orologio",
+        "EnglishWord": "the watch"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "l'ospedale",
+        "EnglishWord": "the hospital"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la farmacia",
+        "EnglishWord": "the pharmacy"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la farmacia",
+        "EnglishWord": "the pharmacy"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "il commissariato",
+        "EnglishWord": "the police station"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "l'ufficio postale",
+        "EnglishWord": "the postal office"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "spedire",
+        "EnglishWord": "to send"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "il mittente",
+        "EnglishWord": "to sender"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "il peso",
+        "EnglishWord": "the weight"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "il destinatario",
+        "EnglishWord": "the recipient"
+    }
+]
