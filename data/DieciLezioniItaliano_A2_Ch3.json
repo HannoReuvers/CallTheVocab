@@ -1,0 +1,82 @@
+[
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "l'intervista",
+        "EnglishWord": "the interview"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la passeggiata",
+        "EnglishWord": "the walk"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "il genio",
+        "EnglishWord": "the genius"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "smettere",
+        "EnglishWord": "to stop"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "nevicare",
+        "EnglishWord": "to snow"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "cominciare",
+        "EnglishWord": "to start"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "mostrare",
+        "EnglishWord": "to show"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "imitare",
+        "EnglishWord": "to imitate"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "la gentilezza",
+        "EnglishWord": "the kindness"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "dopodomani",
+        "EnglishWord": "the day after tomorrow"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "innamorarsi",
+        "EnglishWord": "to fall in love"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "mettersi insieme",
+        "EnglishWord": "to get together"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "sposarsi",
+        "EnglishWord": "to get married"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "divorziare",
+        "EnglishWord": "to divorce"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "tirare",
+        "EnglishWord": "to throw"
+    },
+    {
+        "QuestionType": "VOC",
+        "ItalianWord": "il sogno",
+        "EnglishWord": "the dream"
+    }
+]
